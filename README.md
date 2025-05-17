@@ -1,9 +1,22 @@
-## Hi there 👋
+<h1>Hi, I'm Valentina! <br/><a <a href="https://www.linkedin.com/in/valentina-cirio-a5ba82304/">Student at Università degli Studi di Torino</a></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- Libretto di esami creato con React: https://github.com/valentinacirio/exam-library
+- Addestramento modelli di machine learning con Python: https://github.com/valentinacirio/disease-prediction 
+- Videoteca per gestione di film creata con Java: https://github.com/valentinacirio/videoteca
+- Sito web prenotazioni corsi di robotica creato in html: https://github.com/valentinacirio/robobook
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/valentina.ty2/
+[linkedin]: https://www.linkedin.com/in/valentina-cirio-a5ba82304/
 
 <!--
-**valentinacirio/valentinacirio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
