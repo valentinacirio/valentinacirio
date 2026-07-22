@@ -6,7 +6,7 @@
 - Addestramento modelli di machine learning con Python: https://github.com/valentinacirio/disease-prediction 
 - Videoteca per gestione di film creata con Java: https://github.com/valentinacirio/videoteca
 - Sito vetrina di prodotti beauty creato con php e javascript: https://github.com/valentinacirio/Urumina
-- Interazione tra utente e simulatore Reachy Mini: https://github.com/valentinacirio/Reachy-mini
+- Interazione tra utente e simulatore Reachy Mini creata con Python: https://github.com/valentinacirio/Reachy-mini
 - Sito web prenotazioni corsi di robotica creato in html e php: https://github.com/valentinacirio/robobook
 
 
