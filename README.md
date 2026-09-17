@@ -9,6 +9,9 @@
 - Interazione tra utente e simulatore Reachy Mini creata con Python: https://github.com/valentinacirio/Reachy-mini
 - Sito web prenotazioni corsi di robotica creato in html e php: https://github.com/valentinacirio/robobook
 
+<h2> Design Projects:</h2>
+- Mockup di un'app di percorsi escursionistici creato con Figma: https://github.com/valentinacirio/Percorsi-escursionistici-personalizzati
+
 
 <h2> 🤳 Connect with me:</h2>
 
