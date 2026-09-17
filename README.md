@@ -10,6 +10,7 @@
 - Sito web prenotazioni corsi di robotica creato in html e php: https://github.com/valentinacirio/robobook
 
 <h2>🔭 Design Projects:</h2>
+
 - Mockup di un'app di percorsi escursionistici creato con Figma: https://github.com/valentinacirio/Percorsi-escursionistici-personalizzati
 
 
